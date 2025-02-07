@@ -28,6 +28,10 @@
 ```
 
 ## 效果图/Screenshots
+### Preview
+![](./screenshots/trae3.png)
+
+### Goals
 ![](./screenshots/trae1.png)
 ![](./screenshots/trae2.png)
 
