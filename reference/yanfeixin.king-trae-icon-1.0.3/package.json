@@ -1,0 +1,44 @@
+{
+	"name": "king-trae-icon",
+	"private": true,
+	"version": "1.0.3",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"publisher": "yanfeixin",
+	"license": "MIT",
+	"icon": "icons/seti-circular-128x128.png",
+	"scripts": {
+		"update": "node ./build/update-icon-theme.js"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "vs-trae-seti",
+				"label": "%themeLabel%",
+				"path": "./icons/vs-seti-icon-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/microsoft/vscode.git"
+	},
+	"__metadata": {
+		"id": "3981e206-494d-44fe-816c-a8116a7307ed",
+		"publisherId": "bd6a8fb1-cecf-4bc2-8ad6-f0f3d82d0add",
+		"publisherDisplayName": "yanfeixin",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1738916876916,
+		"pinned": true,
+		"source": "gallery"
+	}
+}

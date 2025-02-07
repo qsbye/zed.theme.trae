@@ -1,0 +1,58 @@
+{
+	"name": "trae-themes",
+	"displayName": "trae themes",
+	"description": "The default trae light and dark themes",
+	"categories": [
+		"Themes"
+	],
+	"version": "1.0.1",
+	"publisher": "yanfeixin",
+	"license": "MIT",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"id": "Dark",
+				"label": "%dark%",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark_plus.json"
+			},
+			{
+				"id": "Deep Blue",
+				"label": "%deepblue%",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark_blue.json"
+			},
+			{
+				"id": "Light",
+				"label": "%light%",
+				"uiTheme": "vs",
+				"path": "./themes/light_icube.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "vs-minimal",
+				"label": "%minimalIconThemeLabel%",
+				"path": "./fileicons/vs_minimal-icon-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"url": "https://github.com/yanfeixin/trae-themes"
+	},
+	"__metadata": {
+		"id": "92c39ef0-0ae6-4434-beaa-e69ed30446c1",
+		"publisherId": "bd6a8fb1-cecf-4bc2-8ad6-f0f3d82d0add",
+		"publisherDisplayName": "yanfeixin",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1738916877286,
+		"pinned": true,
+		"source": "gallery"
+	}
+}
