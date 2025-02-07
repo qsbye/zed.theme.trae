@@ -43,7 +43,7 @@
         "hint.background": "#333034",
         "hint.border": "#343B4D",
         "ignored": "#5b595c",
-        "info": "#ffd866",
+        "info": "#B38CFF",
         "info.background": "#333034",
         "info.border": "#343B4D",
         "link_text.hover": "#fcfcfa",
@@ -117,7 +117,7 @@
             "color": "#ab9df2"
           },
           "constructor": {
-            "color": "#ff6188"
+            "color": "#B38CFF"
           },
           "emphasis": {
             "font_style": "italic"
@@ -129,7 +129,7 @@
             "color": "#a9dc76"
           },
           "keyword": {
-            "color": "#ff6188"
+            "color": "#B38CFF"
           },
           "label": {
             "color": "#a9dc76"
@@ -153,22 +153,22 @@
             "color": "#fcfcfa"
           },
           "punctuation": {
-            "color": "#939293"
+            "color": "#ffd866"
           },
           "punctuation.bracket": {
-            "color": "#939293"
+            "color": "#387BFF"
           },
           "punctuation.delimiter": {
-            "color": "#939293"
+            "color": "#387BFF"
           },
           "punctuation.list_marker": {
-            "color": "#939293"
+            "color": "#F17489"
           },
           "punctuation.special": {
-            "color": "#939293"
+            "color": "#387BFF"
           },
           "string": {
-            "color": "#ffd866"
+            "color": "#82D99F"
           },
           "string.escape": {
             "color": "#fcfcfa"
@@ -183,19 +183,19 @@
             "color": "#fc9867"
           },
           "tag": {
-            "color": "#ff6188"
+            "color": "#F17489"
           },
           "text.literal": {
-            "color": "#ffd866"
+            "color": "#82D99F"
           },
           "title": {
-            "color": "#ffd866"
+            "color": "#B38CFF"
           },
           "type": {
             "color": "#78dce8"
           },
           "variable": {
-            "color": "#fcfcfa"
+            "color": "#F17489"
           },
           "variable.special": {
             "color": "#c1c0c0",
@@ -223,7 +223,7 @@
         "terminal.ansi.yellow": "#ffd866",
         "terminal.background": "#171B26",
         "text": "#fcfcfa",
-        "text.accent": "#ffd866",
+        "text.accent": "#82D99F",
         "text.muted": "#939293",
         "title_bar.background": "#3d3a3e",
         "toolbar.background": "#171B26",

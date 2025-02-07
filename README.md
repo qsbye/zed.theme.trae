@@ -3,6 +3,9 @@
 - Project inspired on `vscode extension : yanfeixin.trae-themes`.
 - 使用AI进行格式转换.
 
+## 更新日志/Changelog
+1. v0.0.1:大概对照颜色改了一下,效果可能还有问题
+
 ## 安装/Installation
 
 1. Open `Command Palette`
