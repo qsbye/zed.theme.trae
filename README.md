@@ -24,6 +24,10 @@
 "ui_font_family": "JetBrains Mono NL"
 ```
 
+## 效果图/Screenshots
+![](./screenshots/trae1.png)
+![](./screenshots/trae2.png)
+
 ## Contributing
 
 Feel free to fork, make changes, and submit a pull request.
