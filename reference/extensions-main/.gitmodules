@@ -1793,3 +1793,6 @@
 [submodule "extensions/ziggy"]
 	path = extensions/ziggy
 	url = https://github.com/lvignoli/zed-ziggy
+[submodule "extensions/trae-theme"]
+	path = extensions/trae-theme
+	url = https://github.com/qsbye/zed.theme.trae.git

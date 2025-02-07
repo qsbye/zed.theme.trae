@@ -1637,6 +1637,10 @@ version = "0.9.0"
 submodule = "extensions/tree-sitter-query"
 version = "0.0.1"
 
+[trae-theme]
+submodule = "extensions/trae-theme"
+version = "0.0.1"
+
 [tsar]
 submodule = "extensions/tsar"
 version = "0.0.2"
